@@ -1,4 +1,1 @@
-App for people, who:
-a) create a workout plan and stick to it. There can be changes in training days or exercises performed.
-b) people who create workout types but don’t stick to exact plan. 
-c) people who simultaneously train and wanna choose exercises on the way. They can repeat their old workouts, change exercises or their order.
+
